@@ -21,6 +21,7 @@
         nombre: 'Juan',
         edad: 40
     }
+    
 })();
 
 
